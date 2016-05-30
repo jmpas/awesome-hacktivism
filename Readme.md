@@ -1,10 +1,12 @@
+Awesome Hacktivism
+=======================
+[![Travis Build](https://travis-ci.org/Nipher/awesome-hacktivism.svg?branch=master)](https://travis-ci.org/Nipher/awesome-hacktivism) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 - [What is Hacktivism?](https://en.wikipedia.org/wiki/Hacktivism)
 
 > Hacktivism is the subversive use of computers and computer networks to promote a political agenda. With roots in hacker culture and hacker ethics, its ends are often related to the free speech, human rights, or freedom of information movements. 
 
 - [Contributing Guide](Contributing.md)
-
-[![Travis Build](https://travis-ci.org/Nipher/awesome-hacktivism.svg?branch=master)](https://travis-ci.org/Nipher/awesome-hacktivism) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 

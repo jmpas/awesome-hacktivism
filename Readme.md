@@ -26,11 +26,13 @@
 
 - [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
 - [LulzSec](https://en.wikipedia.org/wiki/LulzSec)
+- [Demand Progress](https://demandprogress.org/)
 
 ## People to Follow
 
 - [Edward Snowden](https://twitter.com/Snowden)
 - [WikiLeaks](https://twitter.com/wikileaks)
+- [Demand Progress](https://twitter.com/demandprogress)
 
 ## Videos
 

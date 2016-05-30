@@ -5,7 +5,7 @@
 - [Who made this list?](#author)
 - [Contributing Guide](Contributing.md)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Travis Build](https://travis-ci.org/Nipher/awesome-hacktivism.svg?branch=master)](https://travis-ci.org/Nipher/awesome-hacktivism) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -45,9 +45,3 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 | ![Jonas Mendes](https://avatars0.githubusercontent.com/u/7523828?v=3&u=a60be5edf3150600bf50414d32b50e0d74a2cf6e&s=150) |
 |:---------------------:|
 |  [Jonas Mendes](https://github.com/Nipher/)   |
-
-## License
-
-[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-To the extent possible under law, [Jonas Mendes](http://github.com/Nipher) has waived all copyright and related or neighboring rights to this work.

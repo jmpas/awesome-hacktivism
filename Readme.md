@@ -40,6 +40,7 @@ Awesome Hacktivism
 
 - [Edward Snowden](https://twitter.com/Snowden)
 - [WikiLeaks](https://twitter.com/wikileaks)
+- [Julian Assange](https://twitter.com/JulianAssange_)
 - [Demand Progress](https://twitter.com/demandprogress)
 - [Tim Berners-Lee](https://twitter.com/timberners_lee)
 - [Lawrence Lessig](https://twitter.com/lessig)

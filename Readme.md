@@ -29,12 +29,20 @@ Awesome Hacktivism
 - [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
 - [LulzSec](https://en.wikipedia.org/wiki/LulzSec)
 - [Demand Progress](https://demandprogress.org/)
+- [Cult of the Dead Cow](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow)
+- [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
+- [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301)
+- [Decocidio](https://en.wikipedia.org/wiki/Decocidio)
+- [Milw0rm](https://en.wikipedia.org/wiki/Milw0rm)
+- [Telecomix](https://en.wikipedia.org/wiki/Telecomix)
 
 ## People to Follow
 
 - [Edward Snowden](https://twitter.com/Snowden)
 - [WikiLeaks](https://twitter.com/wikileaks)
 - [Demand Progress](https://twitter.com/demandprogress)
+- [Tim Berners-Lee](https://twitter.com/timberners_lee)
+- [Lawrence Lessig](https://twitter.com/lessig)
 
 ## Videos
 

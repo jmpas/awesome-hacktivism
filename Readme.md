@@ -18,9 +18,9 @@ Awesome Hacktivism
 ## Documentaries
 
 - [Citizenfour](http://www.imdb.com/title/tt4044364/) - A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.
-- [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/) - A documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous.
-- [The Hacker Wars](http://www.imdb.com/title/tt4047350/) - Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy.
-- [The Internet’s Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
+- [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/) ([video](https://www.youtube.com/watch?v=YvB3xw6GQug)) - A documentary on the workings and beliefs of the self-described "hacktivist" collective, Anonymous.
+- [The Hacker Wars](http://www.imdb.com/title/tt4047350/) ([video](https://www.youtube.com/watch?v=ku9edEKvGuY)) - Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy.
+- [The Internet’s Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/) ([video](https://www.youtube.com/watch?v=gpvcc9C8SbM)) - The story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.
 - [We Steal Secrets: The Story of WikiLeaks ](http://www.imdb.com/title/tt1824254/) - A documentary that details the creation of Julian Assange's controversial website, which facilitated the largest security breach in U.S. history.
 - [Free the Network: Hackers Take Back the Web](https://www.youtube.com/watch?v=Fx93WJPCCGs) - Motherboard's documentary on Occupy Wall Street, hacktivism, and the hackers trying to build a distributed network for the Occupy movement and beyond.
 
@@ -48,6 +48,7 @@ Awesome Hacktivism
 ## Videos
 
 - [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)
+- [Anonymous - The Movement](https://www.youtube.com/watch?v=2tMq99SYv8M)
 
 ## Contributing
 

@@ -44,11 +44,20 @@ Awesome Hacktivism
 - [Demand Progress](https://twitter.com/demandprogress)
 - [Tim Berners-Lee](https://twitter.com/timberners_lee)
 - [Lawrence Lessig](https://twitter.com/lessig)
+- [Subverzo](https://twitter.com/subverzo)
+- [Andrew Auernheimer](https://twitter.com/rabite)
+- [Jaime Cochran](https://twitter.com/ACKFlags)
+- [Lauren Pespisa](https://twitter.com/SplendidSpoon)
+- [Gregg Housh](https://twitter.com/GreggHoush)
+- [Anonymous Ops](https://twitter.com/AnonyOps)
+- [Anonymous Cast](https://twitter.com/anonycast)
+- [TheAnonMessage](https://twitter.com/TheAnonnMessage)
 
 ## Videos
 
-- [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)
+- [Anonymous - Message to the American People](https://www.youtube.com/watch?v=HrXyLrTRXso)
 - [Anonymous - The Movement](https://www.youtube.com/watch?v=2tMq99SYv8M)
+- [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)
 
 ## Contributing
 

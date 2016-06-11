@@ -55,6 +55,7 @@ Awesome Hacktivism
 
 ## Videos
 
+- [Anonymous - Message to the Citizens of the World II](https://www.youtube.com/watch?v=-hDqFJJDHhk)
 - [Anonymous - Message to the American People](https://www.youtube.com/watch?v=HrXyLrTRXso)
 - [Anonymous - The Movement](https://www.youtube.com/watch?v=2tMq99SYv8M)
 - [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)

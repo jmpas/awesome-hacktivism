@@ -35,6 +35,8 @@ Awesome Hacktivism
 - [Decocidio](https://en.wikipedia.org/wiki/Decocidio)
 - [Milw0rm](https://en.wikipedia.org/wiki/Milw0rm)
 - [Telecomix](https://en.wikipedia.org/wiki/Telecomix)
+- [Level Seven](https://en.wikipedia.org/wiki/Level_Seven_(hacking_group))
+- [TeaMp0isoN](https://en.wikipedia.org/wiki/TeaMp0isoN)
 
 ## People to Follow
 

@@ -26,17 +26,17 @@ Awesome Hacktivism
 
 ## Groups
 
-- [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
-- [LulzSec](https://en.wikipedia.org/wiki/LulzSec)
-- [Demand Progress](https://demandprogress.org/)
-- [Cult of the Dead Cow](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow)
-- [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club)
-- [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301)
-- [Decocidio](https://en.wikipedia.org/wiki/Decocidio)
-- [Milw0rm](https://en.wikipedia.org/wiki/Milw0rm)
-- [Telecomix](https://en.wikipedia.org/wiki/Telecomix)
-- [Level Seven](https://en.wikipedia.org/wiki/Level_Seven_(hacking_group))
-- [TeaMp0isoN](https://en.wikipedia.org/wiki/TeaMp0isoN)
+- [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group)) - Anonymous is a loosely associated international network of activist and hacktivist entities.
+- [LulzSec](https://en.wikipedia.org/wiki/LulzSec) - Lulz Security, was a black hat computer hacking group that claimed responsibility for several high profile attacks, including the compromise of user accounts from Sony Pictures in 2011.
+- [Demand Progress](https://demandprogress.org/) - Demand Progress is a national grassroots group with two million affiliated activists who fight for basic rights and freedoms needed for a modern democracy.
+- [Cult of the Dead Cow](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow) - Cult of the Dead Cow, is a computer hacker and DIY media organization founded in 1984 in Lubbock, Texas
+- [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club) - The Chaos Computer Club (CCC) is Europe's largest association of hackers, It has been characterized as one of the most influential digital organisations anywhere, the centre of German digital culture, hacker culture, hacktivism, and the intersection of any discussion of democratic and digital rights.
+- [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301) - Cicada 3301 is a name given to an enigmatic organization that has posted a set of complex puzzles and alternate reality games to recruit codebreakers from the public, the puzzle has been called "the most elaborate and mysterious puzzle of the internet age".
+- [Decocidio](https://en.wikipedia.org/wiki/Decocidio) - Decocidio is an anonymous, autonomous collective of hacktivists which is part of Earth First!, a radical environmental protest organisation, and adheres to Climate Justice Action.
+- [Milw0rm](https://en.wikipedia.org/wiki/Milw0rm) - Milw0rm is a group of hacktivists best known for penetrating the computers of the Bhabha Atomic Research Centre (BARC) in Mumbai, the primary nuclear research facility of India.
+- [Telecomix](https://en.wikipedia.org/wiki/Telecomix) - Telecomix is a decentralized cluster of net activists, committed to the freedom of expression.
+- [Level Seven](https://en.wikipedia.org/wiki/Level_Seven_(hacking_group)) - The hacking group was noted in Attrition's Top 20 most active group's of all time by claiming responsibility for over 60 unauthorized penetrations of computer systems in 1999 alone, including The First American National Bank, The Federal Geographic Data Committee, NASA and Sheraton Hotels.
+- [TeaMp0isoN](https://en.wikipedia.org/wiki/TeaMp0isoN) - TeaMp0isoN was a computer security research group consisting of 3-5 core members. The group gained notoriety in 2011/2012 for their blackhat hacking activities, which included attacks on the United Nations, NASA, NATO, Facebook and several other large corporations and government entities.
 
 ## People to Follow
 
@@ -54,6 +54,7 @@ Awesome Hacktivism
 - [Anonymous Ops](https://twitter.com/AnonyOps)
 - [Anonymous Cast](https://twitter.com/anonycast)
 - [TheAnonMessage](https://twitter.com/TheAnonnMessage)
+- [Chaosupdates](https://twitter.com/chaosupdates)
 
 ## Videos
 

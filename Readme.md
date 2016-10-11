@@ -37,6 +37,7 @@ Awesome Hacktivism
 - [Telecomix](https://en.wikipedia.org/wiki/Telecomix) - Telecomix is a decentralized cluster of net activists, committed to the freedom of expression.
 - [Level Seven](https://en.wikipedia.org/wiki/Level_Seven_(hacking_group)) - The hacking group was noted in Attrition's Top 20 most active group's of all time by claiming responsibility for over 60 unauthorized penetrations of computer systems in 1999 alone, including The First American National Bank, The Federal Geographic Data Committee, NASA and Sheraton Hotels.
 - [TeaMp0isoN](https://en.wikipedia.org/wiki/TeaMp0isoN) - TeaMp0isoN was a computer security research group consisting of 3-5 core members. The group gained notoriety in 2011/2012 for their blackhat hacking activities, which included attacks on the United Nations, NASA, NATO, Facebook and several other large corporations and government entities.
+- [Electronic Frontier Foundation](https://www.eff.org) - The Electronic Frontier Foundation is an international non-profit digital rights group based in San Francisco, California.
 
 ## People to Follow
 
@@ -55,6 +56,8 @@ Awesome Hacktivism
 - [Anonymous Cast](https://twitter.com/anonycast)
 - [TheAnonMessage](https://twitter.com/TheAnonnMessage)
 - [Chaosupdates](https://twitter.com/chaosupdates)
+- [Electronic Frontier Foundation](https://twitter.com/EFF)
+- [Eva Galperin](https://twitter.com/evacide)
 
 ## Videos
 

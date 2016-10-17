@@ -58,6 +58,7 @@ Awesome Hacktivism
 - [Chaosupdates](https://twitter.com/chaosupdates)
 - [Electronic Frontier Foundation](https://twitter.com/EFF)
 - [Eva Galperin](https://twitter.com/evacide)
+- [Andrei Soldatov](https://twitter.com/AndreiSoldatov)
 
 ## Videos
 

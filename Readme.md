@@ -14,6 +14,7 @@ Awesome Hacktivism
 - [Groups](#groups)
 - [People to Follow](#people-to-follow)
 - [Videos](#videos)
+- [Books](#books)
 
 ## Documentaries
 
@@ -66,6 +67,11 @@ Awesome Hacktivism
 - [Anonymous - Message to the American People](https://www.youtube.com/watch?v=HrXyLrTRXso)
 - [Anonymous - The Movement](https://www.youtube.com/watch?v=2tMq99SYv8M)
 - [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)
+
+## Books
+
+- [No Place to Hide](https://www.goodreads.com/book/show/18213403-no-place-to-hide) by Glenn Greenwald
+- [The Red Web](https://www.goodreads.com/book/show/24945323-the-red-web) by Andrei Soldatov
 
 ## Contributing
 

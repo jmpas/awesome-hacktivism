@@ -60,6 +60,8 @@ Awesome Hacktivism
 - [Electronic Frontier Foundation](https://twitter.com/EFF)
 - [Eva Galperin](https://twitter.com/evacide)
 - [Andrei Soldatov](https://twitter.com/AndreiSoldatov)
+- [Vivien Weisman](https://twitter.com/vivienweisman)
+- [The Hacker Wars](https://twitter.com/TheHackerWars)
 
 ## Videos
 

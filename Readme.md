@@ -62,6 +62,7 @@ Awesome Hacktivism
 - [Andrei Soldatov](https://twitter.com/AndreiSoldatov)
 - [Vivien Weisman](https://twitter.com/vivienweisman)
 - [The Hacker Wars](https://twitter.com/TheHackerWars)
+- [Jake Davis](https://twitter.com/DoubleJake)
 
 ## Videos
 

@@ -71,6 +71,7 @@ Awesome Hacktivism
 - [Anonymous - Message to the American People](https://www.youtube.com/watch?v=HrXyLrTRXso)
 - [Anonymous - The Movement](https://www.youtube.com/watch?v=2tMq99SYv8M)
 - [Richard Stallman talks about Hacktivism and Anonymous protest](https://www.youtube.com/watch?v=R3xXFSMd20A)
+- [TED talk - Glenn Greenwald: Why privacy matters](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
 ## Books
 
@@ -79,7 +80,7 @@ Awesome Hacktivism
 
 ## Podcasts
 
-- [Stuff you should know - How the NSA works](http://www.stuffyoushouldknow.com/podcasts/how-the-nsa-works.htm)
+- [How the NSA works](http://www.stuffyoushouldknow.com/podcasts/how-the-nsa-works.htm) by Stuff You Should Know
 
 ## Contributing
 

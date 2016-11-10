@@ -15,6 +15,7 @@ Awesome Hacktivism
 - [People to Follow](#people-to-follow)
 - [Videos](#videos)
 - [Books](#books)
+- [Podcasts](#podcasts)
 
 ## Documentaries
 
@@ -75,6 +76,10 @@ Awesome Hacktivism
 
 - [No Place to Hide](https://www.goodreads.com/book/show/18213403-no-place-to-hide) by Glenn Greenwald
 - [The Red Web](https://www.goodreads.com/book/show/24945323-the-red-web) by Andrei Soldatov
+
+## Podcasts
+
+- [Stuff you should know - How the NSA works](http://www.stuffyoushouldknow.com/podcasts/how-the-nsa-works.htm)
 
 ## Contributing
 

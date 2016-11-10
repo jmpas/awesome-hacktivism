@@ -64,6 +64,7 @@ Awesome Hacktivism
 - [Vivien Weisman](https://twitter.com/vivienweisman)
 - [The Hacker Wars](https://twitter.com/TheHackerWars)
 - [Jake Davis](https://twitter.com/DoubleJake)
+- [Glenn Greenwald](https://twitter.com/ggreenwald)
 
 ## Videos
 

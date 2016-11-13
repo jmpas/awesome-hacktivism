@@ -82,6 +82,8 @@ Awesome Hacktivism
 ## Podcasts
 
 - [How the NSA works](http://www.stuffyoushouldknow.com/podcasts/how-the-nsa-works.htm) by Stuff You Should Know
+- [The Lowdown on Anonymous](http://www.stuffyoushouldknow.com/podcasts/the-lowdown-on-anonymous.htm) by Stuff You Should Know
+- [How the Deep Web Works](www.stuffyoushouldknow.com/podcasts/deep-web-works.htm) by Stuff You Should Know
 
 ## Contributing
 

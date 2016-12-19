@@ -16,6 +16,9 @@ Awesome Hacktivism
 - [Videos](#videos)
 - [Books](#books)
 - [Podcasts](#podcasts)
+- [Surveillance Systems](#surveillance-systems)
+- [Government Projects](#government-projects)
+- [Government Organizations](#government-organizations)
 
 ## Documentaries
 
@@ -85,6 +88,20 @@ Awesome Hacktivism
 - [The Lowdown on Anonymous](http://www.stuffyoushouldknow.com/podcasts/the-lowdown-on-anonymous.htm) by Stuff You Should Know
 - [How the Deep Web Works](www.stuffyoushouldknow.com/podcasts/deep-web-works.htm) by Stuff You Should Know
 
+## Surveillance Systems
+
+- [Tempora](https://en.wikipedia.org/wiki/Tempora)
+- [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
+
+## Government Projects
+
+- [Karma Police](https://en.wikipedia.org/wiki/Karma_Police_(surveillance_program))
+
+## Government Organizations
+
+- [NSA](https://en.wikipedia.org/wiki/National_Security_Agency)
+- [GCHQ](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
+
 ## Contributing
 
 Your contributions are always welcome! [Click here to read the guidelines](https://github.com/Nipher/awesome-hacktivism/blob/master/Contributing.md).
@@ -94,3 +111,4 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jonas Mendes](https://github.com/Nipher) has waived all copyright and related or neighboring rights to this work.
+

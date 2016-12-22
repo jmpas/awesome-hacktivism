@@ -96,11 +96,14 @@ Awesome Hacktivism
 ## Government Projects
 
 - [Karma Police](https://en.wikipedia.org/wiki/Karma_Police_(surveillance_program))
+- [MUSCULAR](https://en.wikipedia.org/wiki/MUSCULAR_(surveillance_program))
+- [Golden Shield Project](https://en.wikipedia.org/wiki/Golden_Shield_Project)
 
 ## Government Organizations
 
 - [NSA](https://en.wikipedia.org/wiki/National_Security_Agency)
 - [GCHQ](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
+- [BND](https://en.wikipedia.org/wiki/Federal_Intelligence_Service_(Germany))
 
 ## Contributing
 

@@ -92,6 +92,9 @@ Awesome Hacktivism
 
 - [Tempora](https://en.wikipedia.org/wiki/Tempora)
 - [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
+- [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
+- [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
+- [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 
 ## Government Projects
 
@@ -104,6 +107,7 @@ Awesome Hacktivism
 - [NSA](https://en.wikipedia.org/wiki/National_Security_Agency)
 - [GCHQ](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 - [BND](https://en.wikipedia.org/wiki/Federal_Intelligence_Service_(Germany))
+- [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
 
 ## Contributing
 
